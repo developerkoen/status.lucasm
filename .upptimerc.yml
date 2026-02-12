@@ -11,7 +11,7 @@ status-website:
   themeUrl: https://status.lucasm.xyz/theme-main.css
   cname: status.lucasm.xyz
   logoUrl: https://concepts.lucasmangroelal.nl/logo.png
-  name: Status
+  name: Lucasm - Statuspagina
   introTitle: "Bekijk hier de status van websites van **Lucas**"
   introMessage: Op deze website vindt je de status van websites van Lucas op (sub)domeinen van lucasm.nl en lucasm.xyz.
   navbar:
