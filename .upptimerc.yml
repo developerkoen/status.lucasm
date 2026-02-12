@@ -18,7 +18,7 @@ status-website:
     - title: Status
       href: /
     - title: WorkLog
-      href: <a href="https://worklog.lucasm.xyz" target="_blank" rel="noopener noreferrer">
+      href: https://worklog.lucasm.xyz
 
 
 i18n:
