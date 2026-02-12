@@ -18,7 +18,8 @@ status-website:
     - title: Status
       href: /
     - title: WorkLog
-      href: https://worklog.lucasm.xyz/
+      href: <a href="https://worklog.lucasm.xyz" target="_blank" rel="noopener noreferrer">
+
 
 i18n:
   activeIncidents: Active Incidents
