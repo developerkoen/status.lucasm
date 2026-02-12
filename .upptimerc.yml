@@ -81,4 +81,4 @@ i18n:
   duration1Y: 1 jaar
   durationAll: altijd
   locale: nl-NL
-  footer: Deze pagina is [open source]($REPO) van [Upptime](https://upptime.js.org). Vertalingen door Koen.
+  footer: Vertalingen & theme door Koen. <br> De systemen (back-end) en lay-out zijn [open source]($REPO) van [Upptime](https://upptime.js.org).
