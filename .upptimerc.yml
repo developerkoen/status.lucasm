@@ -8,7 +8,7 @@ sites:
     url: https://worklog.lucasm.xyz/
 
 status-website:
-  themeUrl: https://status.lucasm.xyz/theme-main.css
+  themeUrl: https://status.lucasm.xyz/thema.css
   cname: status.lucasm.xyz
   logoUrl: https://concepts.lucasmangroelal.nl/logo.png
   name: Lucasm - Statuspagina
