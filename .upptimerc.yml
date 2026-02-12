@@ -21,9 +21,9 @@ status-website:
 
 i18n:
   activeIncidents: Active Incidents
-  allSystemsOperational: All systems are operational
+  allSystemsOperational: Alle systemen zijn operationeel (werkend)!
   incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  activeIncidentSummary: Geopend op $DATE met $POSTS posts
   incidentTitle: Incident $NUMBER Details
   incidentDetails: Incident Details
   incidentFixed: Fixed
@@ -69,16 +69,16 @@ i18n:
   scheduledMaintenance: Scheduled Maintenance
   scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
   scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
+  startedAt: Begonnen op
+  startsAt: Begint op
+  duration: Duur
   durationMin: $DURATION minuten
-  incidentCompleted: Completed
+  incidentCompleted: Afgerond
   incidentScheduled: Gepland
   duration24H: 24 uur
   duration7D: 7 dagen
   duration30D: 30 dagen
   duration1Y: 1 jaar
-  durationAll: all
-  locale: en-US
-  footer: Deze pagina is [open source]($REPO) systemen door [Upptime](https://upptime.js.org). Vertalingen door Koen.
+  durationAll: altijd
+  locale: nl-NL
+  footer: Deze pagina is [open source]($REPO) van [Upptime](https://upptime.js.org). Vertalingen door Koen.
