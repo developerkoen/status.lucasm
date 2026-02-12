@@ -8,6 +8,7 @@ sites:
     url: https://worklog.lucasm.xyz/
 
 status-website:
+  themeUrl: https://status.lucasm.xyz/theme-main.css
   cname: status.lucasm.xyz
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
