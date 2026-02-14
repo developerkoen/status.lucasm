@@ -9,7 +9,7 @@ sites:
 
 status-website:
   themeUrl: https://status.lucasm.xyz/thema.css
-  cname: status.lucasm.xyz
+  cname: upptimestatuslogger.lucasm.xyz
   logoUrl: https://concepts.lucasmangroelal.nl/logo.png
   name: Lucasm - Statuspagina
   favicon: https://concepts.lucasmangroelal.nl/logo.png
