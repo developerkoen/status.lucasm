@@ -1,27 +1,39 @@
 :root {
+  /* Basis Kleuren */
   --body-background-color: #000000;
   --body-text-color: #ffffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #685900;
-  --nav-border-bottom-color: #ffd900;
-  --nav-current-border-bottom-color: #f4ff00;
-  --card-border-color: #015450;
-  --down-border-left-color: #eb3b5a;
-  --down-background-color: #6b1020;
-  --degraded-border-left-color: #f7b731;
-  --up-border-left-color: #20bf6b;
-  --tag-color: #002b29;
-  --tag-up-background-color: #20bf6b;
-  --tag-down-background-color: #eb3b5a;
-  --tag-degraded-background-color: #f7b731;
-  --change-background-color: #f7b731;
-  --error-button-border-color: #1a46ad;
-  --error-button-background-color: #3867d6;
-  --error-button-color: #ffffff;
-  --submit-button-border-color: #1a46ad;
-  --submit-button-background-color: #3867d6;
-  --submit-button-color: #ffffff;
-  --graph-opacity: 1;
-  --graph-filter: #ffffff;
-}
+  
+  /* Kaarten en Navigatie */
+  --card-background-color: #111111;
+  --card-border-color: #222222;
+  --nav-background-color: #000000;
+  --nav-border-bottom-color: #333333;
+  --nav-current-border-bottom-color: #ffffff;
 
+  /* Status Kleuren (Subtieler gemaakt) */
+  --up-border-left-color: #ffffff;
+  --down-border-left-color: #444444;
+  --degraded-border-left-color: #888888;
+  
+  --down-background-color: #1a1a1a;
+  
+  /* Tags en Badges */
+  --tag-color: #ffffff;
+  --tag-up-background-color: #222222;
+  --tag-down-background-color: #222222;
+  --tag-degraded-background-color: #222222;
+  
+  /* Buttons (High Contrast) */
+  --submit-button-background-color: #ffffff;
+  --submit-button-color: #000000;
+  --submit-button-border-color: #ffffff;
+  
+  --error-button-background-color: #111111;
+  --error-button-color: #ffffff;
+  --error-button-border-color: #333333;
+
+  /* Overig */
+  --change-background-color: #333333;
+  --graph-opacity: 0.8;
+  --graph-filter: brightness(0) invert(1);
+}
