@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 144,
-    "timeWeek": 206,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "time": 191,
+    "timeDay": 288,
+    "timeWeek": 228,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,20 @@
     "url": "https://worklog.lucasm.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/worklog.lucasm.xyz.ico",
     "slug": "work-log-via-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2931,
-    "timeDay": 240,
-    "timeWeek": 1179,
-    "timeMonth": 2931,
-    "timeYear": 2931,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "94.61%",
+    "uptimeDay": "49.66%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "94.61%",
+    "time": 2715,
+    "timeDay": 117,
+    "timeWeek": 661,
+    "timeMonth": 2715,
+    "timeYear": 2715,
+    "dailyMinutesDown": {
+      "2026-02-22": 151,
+      "2026-02-21": 573
+    }
   }
 ]
